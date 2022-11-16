@@ -2,4 +2,4 @@ This project is about solving BdG equations on different graphs and calculating 
 
 The idea behind it is that by engineering fractal lattices one can increase critical temperature of the superconducting transition without destroying the long-range phase coherence.
 
-![plot](https://github.com/BagrovAndrey/BdG/edit/main/fractal_stiffness.png)
+![plot](fractal_stiffness.png)
