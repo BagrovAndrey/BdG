@@ -3,3 +3,5 @@ This project is about solving BdG equations on different graphs and calculating 
 The idea behind it is that by engineering fractal lattices one can increase critical temperature of the superconducting transition without destroying the long-range phase coherence.
 
 ![plot](fractal_stiffness.png)
+
+Fig.1 Superfluid stiffness for the attractive Hubbard model on a Sierpinski gasket lattice in the superconducting phase. Fractality leads to an increact in Tc by a factor of about 1.4 for the given parameters (t=1, U=2, half-filling). Yellow sites mark regions with non-zero stiffness. Their connectivity in a large cluster indicates that global supercurrent thorugh the sample is possible.
